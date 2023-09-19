@@ -4,4 +4,4 @@
 # go into terminal a type in this
 
 perl -v (this is download perl in macOs, this should be already installed )
-perl -w "print qq{hello world}
+perl -e "print qq{hello world}
