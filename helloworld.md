@@ -3,6 +3,5 @@
 #full-featured programming language that is used in web development, system administration, network programming, etc
 # go into terminal a type in this
 
-perl -v 
-#this is download perl in macOs, this should be already installed 
+perl -v (this is download perl in macOs, this should be already installed )
 perl -w "print qq{hello world}
